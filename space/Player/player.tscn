@@ -16,3 +16,10 @@ offset = Vector2(0, 62)
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
 texture = ExtResource("2_4hmpc")
+
+[node name="Area2D" type="Area2D" parent="."]
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="Area2D"]
+polygon = PackedVector2Array(10, 11, 31, 31, 40, 15, 0, -45, -39, 24, -17, 37, 2, 32, 22, 44, 33, 34)
+
+[connection signal="body_entered" from="Area2D" to="." method="_on_area_2d_body_entered"]

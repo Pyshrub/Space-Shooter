@@ -5,7 +5,20 @@ var max_speed = 400
 var rotate_speed = 0.05
 var nose = Vector2(0,-60)
 var Bullet = load("res://Player/bullet.tscn")
-
+var Explosion = load("res://Effects/explosion.tscn")
+var health = 10
+var Effects = null
+func damage(d):
+	health -= d
+	if health <= 0:
+		Effects = get_node_or_null("/root/Game/Effects")
+		if Effects != null:
+			var explosion = Explosion.instantiate()
+			Effects.add_child(explosion)
+			explosion.global_position = global_position
+			hide()
+			await explosion.animation_finished
+		queue_free()
 func _physics_process(delta):
 	velocity += get_input()*speed	
 	position.x = wrapf(position.x, 0, 1152)
@@ -31,3 +44,7 @@ func get_input():
 	if Input.is_action_pressed("Right"):
 		rotation += rotate_speed
 	return to_return.rotated(rotation) 
+
+
+func _on_area_2d_body_entered(body):
+	pass # Replace with function body.
