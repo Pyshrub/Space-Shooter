@@ -32,12 +32,13 @@ func _on_timer_timeout():
 		var bullet = Bullet.instantiate()
 		var d = global_position.angle_to_point(Player.global_position) + PI/2
 		bullet.rotation = d
-		bullet.position = global_position + Vector2(0, -40).rotated(d)
+		bullet.position = global_position + Vector2(0, -70).rotated(d)
 		Effects.add_child(bullet)
 
 func damage(d):
 	health -= d
 	if health <= 0:
+		Global.update_score(500)
 		queue_free()
 func _on_area_2d_body_entered(body):
 	if body.name == "Player":

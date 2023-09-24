@@ -8,9 +8,12 @@ var Bullet = load("res://Player/bullet.tscn")
 var Explosion = load("res://Effects/explosion.tscn")
 var health = 10
 var Effects = null
+
 func damage(d):
 	health -= d
+	print(health)
 	if health <= 0:
+		Global.update_lives(-1)
 		Effects = get_node_or_null("/root/Game/Effects")
 		if Effects != null:
 			var explosion = Explosion.instantiate()
@@ -47,4 +50,7 @@ func get_input():
 
 
 func _on_area_2d_body_entered(body):
-	pass # Replace with function body.
+	if body.name == "Player":
+		pass
+	else:
+		damage(100)

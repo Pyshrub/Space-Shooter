@@ -1,0 +1,48 @@
+[gd_scene load_steps=3 format=3 uid="uid://b1jh4yv1qi1nf"]
+
+[ext_resource type="Script" path="res://UI/End_Game.gd" id="1_he17a"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_cj3lb"]
+font_size = 40
+
+[node name="End_Game" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_he17a")
+
+[node name="End_Screen" type="Label" parent="."]
+layout_mode = 0
+offset_right = 1153.0
+offset_bottom = 111.0
+text = "Game Over"
+label_settings = SubResource("LabelSettings_cj3lb")
+horizontal_alignment = 1
+
+[node name="Button" type="Button" parent="."]
+layout_mode = 0
+offset_left = 484.0
+offset_top = 221.0
+offset_right = 688.0
+offset_bottom = 260.0
+text = "Play Again?"
+
+[node name="Button2" type="Button" parent="."]
+offset_left = 487.0
+offset_top = 301.0
+offset_right = 691.0
+offset_bottom = 340.0
+text = "Quit"
+
+[node name="Score" type="Label" parent="."]
+layout_mode = 0
+offset_left = 512.0
+offset_top = 92.0
+offset_right = 646.0
+offset_bottom = 132.0
+
+[connection signal="pressed" from="Button" to="." method="_on_button_pressed"]
+[connection signal="pressed" from="Button2" to="." method="_on_button_2_pressed"]

@@ -1,0 +1,65 @@
+[gd_scene load_steps=4 format=3 uid="uid://bl0o74rg38ayk"]
+
+[sub_resource type="GDScript" id="GDScript_23hk1"]
+script/source = "extends Control
+
+
+# Called when the node enters the scene tree for the first time.
+func _ready():
+	pass # Replace with function body.
+
+
+# Called every frame. 'delta' is the elapsed time since the previous frame.
+func _process(delta):
+	pass
+
+
+func _on_button_pressed():
+	get_tree().change_scene_to_file(\"res://Player/game.tscn\")
+
+
+func _on_button_2_pressed():
+	get_tree().quit()
+"
+
+[sub_resource type="LabelSettings" id="LabelSettings_psggh"]
+font_size = 40
+
+[sub_resource type="Theme" id="Theme_86n3t"]
+
+[node name="Menu" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = SubResource("GDScript_23hk1")
+
+[node name="Label" type="Label" parent="."]
+layout_mode = 0
+offset_right = 1150.0
+offset_bottom = 176.0
+text = "Welcome to the Pew Pew Game!"
+label_settings = SubResource("LabelSettings_psggh")
+horizontal_alignment = 1
+
+[node name="Button" type="Button" parent="."]
+layout_mode = 0
+offset_left = 462.0
+offset_top = 219.0
+offset_right = 655.0
+offset_bottom = 262.0
+theme = SubResource("Theme_86n3t")
+text = "PLAY"
+
+[node name="Button2" type="Button" parent="."]
+layout_mode = 0
+offset_left = 474.0
+offset_top = 297.0
+offset_right = 647.0
+offset_bottom = 343.0
+text = "QUIT"
+
+[connection signal="pressed" from="Button" to="." method="_on_button_pressed"]
+[connection signal="pressed" from="Button2" to="." method="_on_button_2_pressed"]
