@@ -81,6 +81,7 @@ text = "Paused..."
 label_settings = SubResource("LabelSettings_hvjfv")
 
 [node name="Quit" type="Button" parent="UI/PMenu"]
+layout_mode = 0
 offset_left = 511.0
 offset_top = 298.0
 offset_right = 599.0

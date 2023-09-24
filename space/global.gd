@@ -3,7 +3,7 @@ extends Node
 var VP = Vector2.ZERO
 
 var score = 0
-var time = 0
+var time = 30
 var lives = 0
 
 func _ready():
@@ -35,7 +35,7 @@ func update_lives(l):
 		hud.update_lives()
 	if lives <= 0:
 		get_tree().change_scene_to_file("res://UI/End_Game.tscn")
-		
+
 func _physics_process(_delta):
 	var Asteroid_Container = get_node_or_null("/root/Game/Asteroid_Container")
 	var Enemy_Container = get_node_or_null("/root/Game/Enemy_Container")

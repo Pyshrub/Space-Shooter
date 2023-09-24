@@ -31,6 +31,7 @@ offset_bottom = 260.0
 text = "Play Again?"
 
 [node name="Button2" type="Button" parent="."]
+layout_mode = 0
 offset_left = 487.0
 offset_top = 301.0
 offset_right = 691.0

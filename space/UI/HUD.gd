@@ -24,9 +24,9 @@ func update_lives():
 		indicator.position = lives_pos + Vector2(lives_index*i, 0)
 		$Indicator_Container.add_child(indicator)
 
-func _on_Timer_timeout():
+func _on_timer_timeout():
 	Global.time -= 1
 	update_time()
 	if Global.time <= 0:
-		get_tree().change_scene_to_file("res://UI/End_Game.tscn")
+		get_tree().change_scene_to_file("res://UI/End_Game.gd")
 
