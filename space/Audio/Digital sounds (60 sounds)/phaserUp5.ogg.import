@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://duwvlji7xiero"
+path="res://.godot/imported/phaserUp5.ogg-a9276478f8c68b0a947ffa278159e515.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Digital sounds (60 sounds)/phaserUp5.ogg"
+dest_files=["res://.godot/imported/phaserUp5.ogg-a9276478f8c68b0a947ffa278159e515.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

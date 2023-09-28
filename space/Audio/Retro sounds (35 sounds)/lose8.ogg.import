@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://df348farpv810"
+path="res://.godot/imported/lose8.ogg-12d36df5fc26fdeb99bd30ef73e0dff5.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Retro sounds (35 sounds)/lose8.ogg"
+dest_files=["res://.godot/imported/lose8.ogg-12d36df5fc26fdeb99bd30ef73e0dff5.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

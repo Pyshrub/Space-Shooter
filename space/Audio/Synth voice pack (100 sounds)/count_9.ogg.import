@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dcepj03ewoxga"
+path="res://.godot/imported/count_9.ogg-d3683e0881b62f5cc3ab98aef4ee5d6a.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Synth voice pack (100 sounds)/count_9.ogg"
+dest_files=["res://.godot/imported/count_9.ogg-d3683e0881b62f5cc3ab98aef4ee5d6a.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

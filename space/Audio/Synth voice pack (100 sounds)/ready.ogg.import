@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://c206o8e44sahw"
+path="res://.godot/imported/ready.ogg-e285b11769060c0938bbf5d4a7d1328f.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Synth voice pack (100 sounds)/ready.ogg"
+dest_files=["res://.godot/imported/ready.ogg-e285b11769060c0938bbf5d4a7d1328f.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

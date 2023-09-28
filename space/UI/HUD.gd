@@ -27,6 +27,8 @@ func update_lives():
 func _on_timer_timeout():
 	Global.time -= 1
 	update_time()
+	print(Global.time)
 	if Global.time <= 0:
-		get_tree().change_scene_to_file("res://UI/End_Game.gd")
+		print("kek")
+		get_tree().change_scene_to_file("res://UI/End_Game.tscn")
 

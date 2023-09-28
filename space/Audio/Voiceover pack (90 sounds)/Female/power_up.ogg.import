@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://beshsht6y0lqm"
+path="res://.godot/imported/power_up.ogg-464a164b065064f7ce719e39e45e1362.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Voiceover pack (90 sounds)/Female/power_up.ogg"
+dest_files=["res://.godot/imported/power_up.ogg-464a164b065064f7ce719e39e45e1362.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://b2402m05a61gk"
+path="res://.godot/imported/footstep03.ogg-abbf733810b4958e00b987d516c1c36f.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/RPG sounds (50 sounds)/footstep03.ogg"
+dest_files=["res://.godot/imported/footstep03.ogg-abbf733810b4958e00b987d516c1c36f.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

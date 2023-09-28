@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cll6es3uu23kx"
+path="res://.godot/imported/setDown1.ogg-ce4ceee9bdd079dd7c5b2a27dc78c77d.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Foley sounds (85 sounds)/Metal helmet (6 sounds)/setDown1.ogg"
+dest_files=["res://.godot/imported/setDown1.ogg-ce4ceee9bdd079dd7c5b2a27dc78c77d.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://c8g0vidcxljn5"
+path="res://.godot/imported/Drumming Sticks.ogg-03b359a7e37fe57518c199338dca224f.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Music loops (30 files)/Drumming Sticks.ogg"
+dest_files=["res://.godot/imported/Drumming Sticks.ogg-03b359a7e37fe57518c199338dca224f.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

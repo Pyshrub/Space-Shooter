@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://76uk0120bi1v"
+path="res://.godot/imported/zapThreeToneDown.ogg-f46bef13d5f403ce5d3f3db9c5497e4c.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Digital sounds (60 sounds)/zapThreeToneDown.ogg"
+dest_files=["res://.godot/imported/zapThreeToneDown.ogg-f46bef13d5f403ce5d3f3db9c5497e4c.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

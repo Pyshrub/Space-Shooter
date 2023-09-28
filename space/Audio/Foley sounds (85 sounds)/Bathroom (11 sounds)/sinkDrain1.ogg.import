@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://d3b8kn8y2o3cl"
+path="res://.godot/imported/sinkDrain1.ogg-4b6776450422919032366aaf4e64b65d.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Foley sounds (85 sounds)/Bathroom (11 sounds)/sinkDrain1.ogg"
+dest_files=["res://.godot/imported/sinkDrain1.ogg-4b6776450422919032366aaf4e64b65d.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -11,4 +11,4 @@ func _on_quit_pressed():
 
 func _on_reset_pressed():
 	Global.reset()
-	get_tree().change_scene_to_file("res://Game.tscn")
+	get_tree().change_scene_to_file("res://Player/game.tscn")

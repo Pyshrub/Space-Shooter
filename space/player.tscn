@@ -1,7 +1,8 @@
-[gd_scene load_steps=3 format=3 uid="uid://d2k3cyf5pug1l"]
+[gd_scene load_steps=4 format=3 uid="uid://d2k3cyf5pug1l"]
 
 [ext_resource type="Script" path="res://Player/Player.gd" id="1_5m6of"]
-[ext_resource type="Texture2D" uid="uid://bxebiialxwdk5" path="res://Assets/Player.png" id="2_4o78y"]
+[ext_resource type="Texture2D" uid="uid://cwpysrrmp76hc" path="res://Alien Spaceship Pack/PNG/shipYellow_manned.png" id="2_k56j1"]
+[ext_resource type="AudioStream" uid="uid://ctsyfny02704m" path="res://Audio/Digital sounds (60 sounds)/laser1.ogg" id="3_l7mto"]
 
 [node name="Player" type="CharacterBody2D"]
 position = Vector2(512, 300)
@@ -9,7 +10,18 @@ script = ExtResource("1_5m6of")
 metadata/_edit_group_ = true
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
-texture = ExtResource("2_4o78y")
+texture = ExtResource("2_k56j1")
+
+[node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("3_l7mto")
+
+[node name="Area2D" type="Area2D" parent="."]
+collision_layer = 3
+
+[node name="CollisionPolygon2D2" type="CollisionPolygon2D" parent="Area2D"]
+polygon = PackedVector2Array(29, -43, 29, -40.6, 35, -29.5, 35, -13.6, 32.9, -8, 33.5, -8, 46.5, -1, 48.8, -1, 60, -2.2, 60, 0, 62, 1.5, 62, 32, 54, 37.1, 54, 40.7, 42.6, 54, 16.3, 54, 8.1, 45, -9.1, 45, -17.3, 54, -44.1, 54, -51, 47.9, -51, 45.4, -54.3, 38, -62, 32.5, -62, 2, -59, -2, -49.3, -2, -35, -6.5, -39, -18.7, -39, -25.3, -35.5, -38, -34, -38, -23, -52, -20.5, -52, -17.2, -54, 14, -54)
 
 [node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="."]
-polygon = PackedVector2Array(5, -25.2, 5, -22.5, 28.3, 17, 27.2, 19, 25.9, 19, 17.9, 28, 13.6, 28, -0.700001, 21.7, -19, 29, -19, 25.9, -28, 17.9, -28, 14.4, -3, -25.6, -3, -29.2)
+polygon = PackedVector2Array(29, -43, 29, -40.6, 35, -29.5, 35, -13.6, 32.9, -8, 33.5, -8, 46.5, -1, 48.8, -1, 60, -2.2, 60, 0, 62, 1.5, 62, 32, 54, 37.1, 54, 40.7, 42.6, 54, 16.3, 54, 8.1, 45, -9.1, 45, -17.3, 54, -44.1, 54, -51, 47.9, -51, 45.4, -54.3, 38, -62, 32.5, -62, 2, -59, -2, -49.3, -2, -35, -6.5, -39, -18.7, -39, -25.3, -35.5, -38, -34, -38, -23, -52, -20.5, -52, -17.2, -54, 14, -54)
+
+[connection signal="body_entered" from="Area2D" to="." method="_on_area_2d_body_entered"]

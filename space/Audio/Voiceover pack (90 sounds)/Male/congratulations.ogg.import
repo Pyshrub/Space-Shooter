@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://co3ndlxis5qdu"
+path="res://.godot/imported/congratulations.ogg-ee56b3bcea81891ece3e42835bbf2a98.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Voiceover pack (90 sounds)/Male/congratulations.ogg"
+dest_files=["res://.godot/imported/congratulations.ogg-ee56b3bcea81891ece3e42835bbf2a98.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://clt53fl8rm3km"
+path="res://.godot/imported/stoneDrag4.ogg-7527c1451d84f4cd30d300e3dc97d7cd.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Foley sounds (85 sounds)/Stone and rocks (16 sounds)/stoneDrag4.ogg"
+dest_files=["res://.godot/imported/stoneDrag4.ogg-7527c1451d84f4cd30d300e3dc97d7cd.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

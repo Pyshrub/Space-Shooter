@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://depa56k77ypsn"
+path="res://.godot/imported/you_win.ogg-34aeea40d188036edd50202c23c5d860.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Voiceover pack (90 sounds)/Female/you_win.ogg"
+dest_files=["res://.godot/imported/you_win.ogg-34aeea40d188036edd50202c23c5d860.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

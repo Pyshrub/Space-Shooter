@@ -7,6 +7,14 @@ func _ready():
 	
 func _physics_process(delta):
 	move_and_slide()
+	if velocity.x <= 200:
+		velocity.x = 200
+	if velocity.x >= -200:
+		velocity.x = -200
+	if velocity.y >= 200:
+		velocity.y =200
+	if velocity.y <= -200:
+		velocity.y = -200
 	position.x = wrapf(position.x, 0, Global.VP.x)
 	position.y = wrapf(position.y, 0, Global.VP.y)
 func damage(d):

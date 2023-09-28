@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://deqqk1ab5jv85"
+path="res://.godot/imported/war_get_down.ogg-00d83d1c09d8b23f3a292204d62f1336.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Voiceover pack (90 sounds)/Male/war_get_down.ogg"
+dest_files=["res://.godot/imported/war_get_down.ogg-00d83d1c09d8b23f3a292204d62f1336.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dg8w0joaymphr"
+path="res://.godot/imported/tone1.ogg-052f6c9aba53c28fbef03c0789a726c9.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Digital sounds (60 sounds)/tone1.ogg"
+dest_files=["res://.godot/imported/tone1.ogg-052f6c9aba53c28fbef03c0789a726c9.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

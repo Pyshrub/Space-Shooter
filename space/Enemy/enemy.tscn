@@ -13,7 +13,7 @@ script = ExtResource("1_xbni7")
 texture = ExtResource("2_pep5g")
 
 [node name="Timer" type="Timer" parent="."]
-wait_time = 2.0
+wait_time = 0.5
 autostart = true
 
 [node name="Area2D" type="Area2D" parent="."]

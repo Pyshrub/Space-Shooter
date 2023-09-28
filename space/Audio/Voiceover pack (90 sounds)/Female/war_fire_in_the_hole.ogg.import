@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dl3vi8u5u4lfg"
+path="res://.godot/imported/war_fire_in_the_hole.ogg-d6869582331e02110b334b3426570bb0.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Voiceover pack (90 sounds)/Female/war_fire_in_the_hole.ogg"
+dest_files=["res://.godot/imported/war_fire_in_the_hole.ogg-d6869582331e02110b334b3426570bb0.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bh1vqfqbww4xg"
+path="res://.godot/imported/war_call_for_backup.ogg-1df7ff7a32c82fdb77c0f8a654bb3b06.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Voiceover pack (90 sounds)/Female/war_call_for_backup.ogg"
+dest_files=["res://.godot/imported/war_call_for_backup.ogg-1df7ff7a32c82fdb77c0f8a654bb3b06.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

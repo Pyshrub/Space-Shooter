@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dydefydx5jxqv"
+path="res://.godot/imported/war_rpg.ogg-6a898b306d092456295474a54b159918.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Voiceover pack (90 sounds)/Female/war_rpg.ogg"
+dest_files=["res://.godot/imported/war_rpg.ogg-6a898b306d092456295474a54b159918.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

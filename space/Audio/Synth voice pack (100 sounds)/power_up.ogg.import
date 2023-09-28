@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://pjice16p06u8"
+path="res://.godot/imported/power_up.ogg-238d758354068c05906dfa0356e4c7a5.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Synth voice pack (100 sounds)/power_up.ogg"
+dest_files=["res://.godot/imported/power_up.ogg-238d758354068c05906dfa0356e4c7a5.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

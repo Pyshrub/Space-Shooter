@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://30xwxnxbu7se"
+path="res://.godot/imported/4.ogg-9eb3e60e52bc46d9f4605a049fb5fa9b.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Voiceover pack (90 sounds)/Male/4.ogg"
+dest_files=["res://.godot/imported/4.ogg-9eb3e60e52bc46d9f4605a049fb5fa9b.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

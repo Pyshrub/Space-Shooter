@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cs45fssa5trnm"
+path="res://.godot/imported/level_complete.ogg-07e9d4667c7861dd7b7d9a8f9699449b.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Synth voice pack (100 sounds)/level_complete.ogg"
+dest_files=["res://.godot/imported/level_complete.ogg-07e9d4667c7861dd7b7d9a8f9699449b.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

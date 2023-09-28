@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://d4jm1j8ird25c"
+path="res://.godot/imported/footstep06.ogg-175a4ee76619a6be7ea77f5ae7c08e68.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/RPG sounds (50 sounds)/footstep06.ogg"
+dest_files=["res://.godot/imported/footstep06.ogg-175a4ee76619a6be7ea77f5ae7c08e68.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cau8y36ebh0mp"
+path="res://.godot/imported/dieThrow1.ogg-237fac9b67a0061559e5c3cfda59679e.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Casino sounds (50 sounds)/dieThrow1.ogg"
+dest_files=["res://.godot/imported/dieThrow1.ogg-237fac9b67a0061559e5c3cfda59679e.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

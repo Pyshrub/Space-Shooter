@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://c1wdrkfrdibky"
+path="res://.godot/imported/sinkWater4.ogg-7c7386dabc7ec99d007391b2a4b96f8b.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Foley sounds (85 sounds)/Bathroom (11 sounds)/sinkWater4.ogg"
+dest_files=["res://.godot/imported/sinkWater4.ogg-7c7386dabc7ec99d007391b2a4b96f8b.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

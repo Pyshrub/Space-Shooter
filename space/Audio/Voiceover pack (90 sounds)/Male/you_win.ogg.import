@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dp2r8a77hm85q"
+path="res://.godot/imported/you_win.ogg-b71f1fe3a70a89a47b7403c39f4fb501.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Voiceover pack (90 sounds)/Male/you_win.ogg"
+dest_files=["res://.godot/imported/you_win.ogg-b71f1fe3a70a89a47b7403c39f4fb501.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

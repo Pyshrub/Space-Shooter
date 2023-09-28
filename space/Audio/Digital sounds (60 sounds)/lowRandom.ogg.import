@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://8emkragx77uu"
+path="res://.godot/imported/lowRandom.ogg-431c515234a4573c9dd1764211dc34b4.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Digital sounds (60 sounds)/lowRandom.ogg"
+dest_files=["res://.godot/imported/lowRandom.ogg-431c515234a4573c9dd1764211dc34b4.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

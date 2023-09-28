@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bik4utprw11un"
+path="res://.godot/imported/war_target_engaged.ogg-7491cfc0362ade35c37fe5eda8b2ef31.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Voiceover pack (90 sounds)/Male/war_target_engaged.ogg"
+dest_files=["res://.godot/imported/war_target_engaged.ogg-7491cfc0362ade35c37fe5eda8b2ef31.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

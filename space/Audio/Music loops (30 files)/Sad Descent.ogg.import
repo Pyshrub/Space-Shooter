@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bgyaxo4eqhdo1"
+path="res://.godot/imported/Sad Descent.ogg-7edbd24351f65197d7ddd42958559db7.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Music loops (30 files)/Sad Descent.ogg"
+dest_files=["res://.godot/imported/Sad Descent.ogg-7edbd24351f65197d7ddd42958559db7.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

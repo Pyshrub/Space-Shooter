@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://tptaoe7nok77"
+path="res://.godot/imported/planet_venus.ogg-b346a1ef8259c16bc26351d6db775933.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Synth voice pack (100 sounds)/planet_venus.ogg"
+dest_files=["res://.godot/imported/planet_venus.ogg-b346a1ef8259c16bc26351d6db775933.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

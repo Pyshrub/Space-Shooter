@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://q0umu0bat74d"
+path="res://.godot/imported/platesSlide4.ogg-c9e6a5e07df9d0f340aaee553420569a.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Foley sounds (85 sounds)/Metal plates (14 sounds)/platesSlide4.ogg"
+dest_files=["res://.godot/imported/platesSlide4.ogg-c9e6a5e07df9d0f340aaee553420569a.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

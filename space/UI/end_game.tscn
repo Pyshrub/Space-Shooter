@@ -1,6 +1,7 @@
-[gd_scene load_steps=3 format=3 uid="uid://b1jh4yv1qi1nf"]
+[gd_scene load_steps=4 format=3 uid="uid://b1jh4yv1qi1nf"]
 
 [ext_resource type="Script" path="res://UI/End_Game.gd" id="1_he17a"]
+[ext_resource type="Texture2D" uid="uid://cy651mnfhug32" path="res://planet-wyfgjszznjpmgs3h.jpg" id="2_quxmb"]
 
 [sub_resource type="LabelSettings" id="LabelSettings_cj3lb"]
 font_size = 40
@@ -13,6 +14,13 @@ anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
 script = ExtResource("1_he17a")
+
+[node name="TextureRect" type="TextureRect" parent="."]
+layout_mode = 0
+offset_right = 1152.0
+offset_bottom = 656.0
+texture = ExtResource("2_quxmb")
+expand_mode = 1
 
 [node name="End_Screen" type="Label" parent="."]
 layout_mode = 0

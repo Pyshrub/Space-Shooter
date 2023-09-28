@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cuvio4750oa17"
+path="res://.godot/imported/loser.ogg-43c1c162b7ee6c8525d7c8ac6d2b4fd5.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Synth voice pack (100 sounds)/loser.ogg"
+dest_files=["res://.godot/imported/loser.ogg-43c1c162b7ee6c8525d7c8ac6d2b4fd5.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

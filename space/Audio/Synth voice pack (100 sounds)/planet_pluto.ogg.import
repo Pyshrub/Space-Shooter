@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://fvgferb6mxea"
+path="res://.godot/imported/planet_pluto.ogg-3e9fc54d8032d75e490d05f778be0d71.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Synth voice pack (100 sounds)/planet_pluto.ogg"
+dest_files=["res://.godot/imported/planet_pluto.ogg-3e9fc54d8032d75e490d05f778be0d71.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

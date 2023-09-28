@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dwlv417eryeh2"
+path="res://.godot/imported/drip1.ogg-4530f2cb3e335e0577319aa15756b1f4.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Foley sounds (85 sounds)/Bathroom (11 sounds)/drip1.ogg"
+dest_files=["res://.godot/imported/drip1.ogg-4530f2cb3e335e0577319aa15756b1f4.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

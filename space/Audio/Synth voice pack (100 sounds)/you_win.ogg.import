@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://j1bj775jdkju"
+path="res://.godot/imported/you_win.ogg-3a35cb4298fa4e75aaab06f5e7a5873e.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Synth voice pack (100 sounds)/you_win.ogg"
+dest_files=["res://.godot/imported/you_win.ogg-3a35cb4298fa4e75aaab06f5e7a5873e.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

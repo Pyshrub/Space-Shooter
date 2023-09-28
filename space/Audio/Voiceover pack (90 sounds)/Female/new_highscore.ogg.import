@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://duyiabt4ccl3v"
+path="res://.godot/imported/new_highscore.ogg-2002cb0525262f22bc101490f4150c89.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Voiceover pack (90 sounds)/Female/new_highscore.ogg"
+dest_files=["res://.godot/imported/new_highscore.ogg-2002cb0525262f22bc101490f4150c89.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

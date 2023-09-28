@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cjpyo5hfjdgqw"
+path="res://.godot/imported/war_reloading.ogg-683147c5fd8b22febd5eac11d5c8d7af.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Voiceover pack (90 sounds)/Female/war_reloading.ogg"
+dest_files=["res://.godot/imported/war_reloading.ogg-683147c5fd8b22febd5eac11d5c8d7af.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

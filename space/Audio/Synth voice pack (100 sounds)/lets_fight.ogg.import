@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://be8kss2xft72f"
+path="res://.godot/imported/lets_fight.ogg-f8a0f06adcf217b69f7862493d07726c.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Synth voice pack (100 sounds)/lets_fight.ogg"
+dest_files=["res://.godot/imported/lets_fight.ogg-f8a0f06adcf217b69f7862493d07726c.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

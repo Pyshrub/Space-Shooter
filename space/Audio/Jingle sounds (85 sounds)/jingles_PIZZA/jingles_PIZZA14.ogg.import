@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://covxfd7ron5q8"
+path="res://.godot/imported/jingles_PIZZA14.ogg-b72cf8305220db63141019d101ebe62b.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Jingle sounds (85 sounds)/jingles_PIZZA/jingles_PIZZA14.ogg"
+dest_files=["res://.godot/imported/jingles_PIZZA14.ogg-b72cf8305220db63141019d101ebe62b.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

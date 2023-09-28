@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dtts5ghclneel"
+path="res://.godot/imported/color_blue.ogg-aa19530e43048f7411f915bb5c93eade.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Synth voice pack (100 sounds)/color_blue.ogg"
+dest_files=["res://.godot/imported/color_blue.ogg-aa19530e43048f7411f915bb5c93eade.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dtwhy8aicfeva"
+path="res://.godot/imported/switch7.ogg-9646076dc86aea1f7362084b96e78ed3.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/UI sounds (50 sounds)/switch7.ogg"
+dest_files=["res://.godot/imported/switch7.ogg-9646076dc86aea1f7362084b96e78ed3.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

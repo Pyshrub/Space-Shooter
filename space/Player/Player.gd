@@ -6,11 +6,11 @@ var rotate_speed = 0.05
 var nose = Vector2(0,-60)
 var Bullet = load("res://Player/bullet.tscn")
 var Explosion = load("res://Effects/explosion.tscn")
-var health = 10
+var health = 20
 var Effects = null
 
-func damage(d):
-	health -= d
+func damage(damage):
+	health -= damage
 	print(health)
 	if health <= 0:
 		Global.update_lives(-1)
@@ -31,6 +31,7 @@ func _physics_process(delta):
 
 	if Input.is_action_just_pressed("Shoot"):
 		var bullet = Bullet.instantiate()
+
 		bullet.rotation = rotation
 		bullet.global_position = global_position + nose.rotated(rotation)
 		var Effects = get_node_or_null("/root/Game/Effects")
@@ -42,6 +43,8 @@ func get_input():
 	if Input.is_action_pressed("Forward"):
 		to_return += Vector2(0,-1)
 		$Exhaust.show()
+	if Input.is_action_pressed("Backward"):
+		to_return += Vector2(0,1)
 	if Input.is_action_pressed("Left"):
 		rotation -= rotate_speed
 	if Input.is_action_pressed("Right"):
@@ -52,5 +55,7 @@ func get_input():
 func _on_area_2d_body_entered(body):
 	if body.name == "Player":
 		pass
+	if body.name == "Bullet":
+		damage(5)
 	else:
 		damage(100)

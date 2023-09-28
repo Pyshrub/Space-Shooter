@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://vb33g6nys14c"
+path="res://.godot/imported/woosh8.ogg-5a6020f51e23f84e95022e0790c9e7a2.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Foley sounds (85 sounds)/Woosh (8 sounds)/woosh8.ogg"
+dest_files=["res://.godot/imported/woosh8.ogg-5a6020f51e23f84e95022e0790c9e7a2.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

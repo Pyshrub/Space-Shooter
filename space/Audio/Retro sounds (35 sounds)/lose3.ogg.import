@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dqjtn08qlhefw"
+path="res://.godot/imported/lose3.ogg-8ebb1797e046743f6ed98d9087058b7d.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Retro sounds (35 sounds)/lose3.ogg"
+dest_files=["res://.godot/imported/lose3.ogg-8ebb1797e046743f6ed98d9087058b7d.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

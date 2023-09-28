@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://b1p17gyti321j"
+path="res://.godot/imported/metalLatch.ogg-220d60927ebc7d2ca456640d0fabf089.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/RPG sounds (50 sounds)/metalLatch.ogg"
+dest_files=["res://.godot/imported/metalLatch.ogg-220d60927ebc7d2ca456640d0fabf089.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bomkrldsudpul"
+path="res://.godot/imported/Retro Mystic.ogg-5660be9f736a840d69c26ce40b002770.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Music loops (30 files)/Retro/Retro Mystic.ogg"
+dest_files=["res://.godot/imported/Retro Mystic.ogg-5660be9f736a840d69c26ce40b002770.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

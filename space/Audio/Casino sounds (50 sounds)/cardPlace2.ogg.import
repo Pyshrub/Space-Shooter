@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://wuxroftsoomn"
+path="res://.godot/imported/cardPlace2.ogg-6f915bde04c5cfd73821f5363918f847.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Casino sounds (50 sounds)/cardPlace2.ogg"
+dest_files=["res://.godot/imported/cardPlace2.ogg-6f915bde04c5cfd73821f5363918f847.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

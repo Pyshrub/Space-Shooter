@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://crkbu0jm0ra40"
+path="res://.godot/imported/Retro Comedy.ogg-ac71dcd76d254f0a479d626d88a24447.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Music loops (30 files)/Retro/Retro Comedy.ogg"
+dest_files=["res://.godot/imported/Retro Comedy.ogg-ac71dcd76d254f0a479d626d88a24447.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

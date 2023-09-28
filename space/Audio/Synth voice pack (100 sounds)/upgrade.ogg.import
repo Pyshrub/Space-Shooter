@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://c0p764f8chxs"
+path="res://.godot/imported/upgrade.ogg-4edd0a253739c442e562165286645d2c.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Synth voice pack (100 sounds)/upgrade.ogg"
+dest_files=["res://.godot/imported/upgrade.ogg-4edd0a253739c442e562165286645d2c.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

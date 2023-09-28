@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://1bps8gcm4vdg"
+path="res://.godot/imported/pause.ogg-0500b79449306730e34bbdf651942fd0.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Synth voice pack (100 sounds)/pause.ogg"
+dest_files=["res://.godot/imported/pause.ogg-0500b79449306730e34bbdf651942fd0.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://be73pqwt31lmh"
+path="res://.godot/imported/Space Cadet.ogg-b5750cad38526d55d53efad176742699.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Music loops (30 files)/Space Cadet.ogg"
+dest_files=["res://.godot/imported/Space Cadet.ogg-b5750cad38526d55d53efad176742699.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

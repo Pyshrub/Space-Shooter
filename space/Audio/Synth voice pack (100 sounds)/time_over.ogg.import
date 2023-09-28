@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://7utinx723ej5"
+path="res://.godot/imported/time_over.ogg-52befee7ad68ecf9741c9c8f73ef2620.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Synth voice pack (100 sounds)/time_over.ogg"
+dest_files=["res://.godot/imported/time_over.ogg-52befee7ad68ecf9741c9c8f73ef2620.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

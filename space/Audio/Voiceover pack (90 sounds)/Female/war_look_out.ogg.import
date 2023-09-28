@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cbqydam3mkbaf"
+path="res://.godot/imported/war_look_out.ogg-c203f1561e7e7e7b4bb5976fad78604b.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Voiceover pack (90 sounds)/Female/war_look_out.ogg"
+dest_files=["res://.godot/imported/war_look_out.ogg-c203f1561e7e7e7b4bb5976fad78604b.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

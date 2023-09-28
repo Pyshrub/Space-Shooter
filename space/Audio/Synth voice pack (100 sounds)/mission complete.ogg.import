@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dfm8k2tfvsr8"
+path="res://.godot/imported/mission complete.ogg-823857978aef73cef7ca5531b0cdea24.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Synth voice pack (100 sounds)/mission complete.ogg"
+dest_files=["res://.godot/imported/mission complete.ogg-823857978aef73cef7ca5531b0cdea24.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

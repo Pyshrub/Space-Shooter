@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://boavp1yod03ly"
+path="res://.godot/imported/new_highscore.ogg-c73a0ea1fcdb15ea5d80635a3777af6e.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Voiceover pack (90 sounds)/Male/new_highscore.ogg"
+dest_files=["res://.godot/imported/new_highscore.ogg-c73a0ea1fcdb15ea5d80635a3777af6e.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
